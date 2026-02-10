@@ -85,3 +85,4 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+Profe este es el link de la pagina: https://dsaw-2026-1.github.io/my-cv-part-a-alejogomez24/
